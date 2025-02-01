@@ -2,7 +2,7 @@
 
 
 ## DO NOT CLONE/FORK this 
-## Create new *PRIVATE* repo from the template
+## Create a new *PRIVATE* repo from the template (use a new repo name)
 
 Yoonsuck Choe
 
